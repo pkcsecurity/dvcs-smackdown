@@ -7,7 +7,7 @@ pull requests, fork, add things, blow things up, get a feel for it all
 so we can have (experiential) personal preferences in our next discussion.
 
 ## How to run the website?
-If you have python, I recommend
+If you have python, I recommend...
 ```bash
-$ python3 -m http.server --bind 127.0.0.1'
+$ python3 -m http.server --bind 127.0.0.1
 ```
